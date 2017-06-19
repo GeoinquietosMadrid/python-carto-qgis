@@ -2,7 +2,7 @@
 Taller de introdución a PyQGIS y al desarollo de plugins para QGIS
 ===================
  
-![](https://www.dropbox.com/s/v7588tlbr07aj8v/front_pyqgis.PNG?dl=0)
+![](http://i.imgur.com/I1XKlMc.png)
 
 En este apartado del taller aprendernos a crear plugins sencillos para **QGIS** empleando **Plugin Builder**,conceptos básicos de **PyQgis**,conceptos básicos de **PyQT** con un pequeño ejemplo introductorio y también como podemos automatizar tareas mediante python como por ejemplo emplando **GDAL**. 
 
