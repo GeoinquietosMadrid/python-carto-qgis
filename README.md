@@ -18,7 +18,7 @@ Materiales para el taller de Programación GIS III: Python aplicado a CARTO y QG
   
 ## Agenda
 
-1. Introducción a GeoInquietos Madrid<br>
+1. [Introducción a GeoInquietos Madrid](geoinq-pgiii)<br>
 2. [Python aplicado a QGIS](/qgis.md)<br>
   2.1. PyQGIS<br>
   2.2. Desarrollo de plugins básicos con Python<br>
