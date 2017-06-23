@@ -12,4 +12,4 @@ En este apartado del taller aprendernos a crear plugins sencillos para **QGIS** 
  
 #### <img src="https://goo.gl/MgG2TJ" width="16"> Material para el curso
 
-[Descargar material](https://goo.gl/JWPki7)
+[Descargar material](https://drive.google.com/file/d/0B9VDXRxK5etKSklDT0prWUdQS3M/view)
