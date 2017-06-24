@@ -12,7 +12,7 @@ En este apartado del taller aprenderemos a usar el SDK de Python de CARTO.
 
 ![](https://media.giphy.com/media/5DfGL75M9spG0/giphy.gif)
 
-* [Notebook](http://54.158.36.229/notebooks/sample.py.ipynb) password: `Carto.2017`
+* [Notebook](http://54.158.36.229/) password: `Carto.2017`
 
 
 ![](https://media.giphy.com/media/M5KFysE4oqmLm/giphy.gif)
